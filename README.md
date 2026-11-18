@@ -4,7 +4,7 @@
 
 Every answer is **calculated by VedicDost's own software** (sidereal zodiac, Lahiri ayanamsa, Parashari method, Vimshottari dasha), not guessed by an AI model, and comes with its **classical basis** (shastra reference) and a link to the free page on [vedicdost.com](https://vedicdost.com).
 
-**Accuracy:** planet positions cross-checked against **NASA JPL Horizons** and **Swiss Ephemeris** on 1,000 random charts (7,000 positions): every one within 1 arc-minute (mean 0.19′, max 0.53′).
+**Accuracy:** VedicDost Engine: Lahiri Ayanamsa (Parashari). Planet Positions Verified Against NASA JPL Horizons and Swiss Ephemeris: 700,000 Positions From 100,000 Charts, All Within 1 Arc-Minute (mean 0.18′, max 0.53′). Proof: [vedicdost/vedicdost tests/nasa](https://github.com/vedicdost/vedicdost) (raw NASA replies saved).
 
 | | |
 |---|---|
@@ -76,3 +76,7 @@ Astrology gives guidance, not certainty; it is not medical, legal or financial a
 This repository holds documentation only. The server is hosted by VedicDost at `https://vedicdost.com/mcp`.
 
 **Support:** support@vedicdost.com · **Website:** [vedicdost.com](https://vedicdost.com)
+
+## Credits
+
+Planet positions use [Astronomy Engine](https://github.com/cosinekitty/astronomy) (MIT License, © Don Cross). Swiss Ephemeris is used only for testing, not in the live software.
