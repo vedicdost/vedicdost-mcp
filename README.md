@@ -4,7 +4,7 @@
 
 Every answer is **calculated by VedicDost's own software** (sidereal zodiac, Lahiri ayanamsa, Parashari method, Vimshottari dasha), not guessed by an AI model, and comes with its **classical basis** (shastra reference) and a link to the free page on [vedicdost.com](https://vedicdost.com).
 
-**Accuracy:** VedicDost Engine: Lahiri Ayanamsa (Parashari). Planet Positions Verified Against NASA JPL Horizons and Swiss Ephemeris: 700,000 Positions From 100,000 Charts, All Within 1 Arc-Minute (mean 0.18′, max 0.53′). Proof: [vedicdost/vedicdost tests/nasa](https://github.com/vedicdost/vedicdost) (raw NASA replies saved).
+**Accuracy:** VedicDost Engine: Lahiri Ayanamsa (Parashari). Planet Positions Verified Against NASA JPL Horizons and Swiss Ephemeris: 700,000 Positions From 100,000 Charts, All Within 1 Arc-Minute (mean 0.18′, max 0.53′). Proof: [proof/](proof/README.md) (700 original NASA replies saved).
 
 | | |
 |---|---|
