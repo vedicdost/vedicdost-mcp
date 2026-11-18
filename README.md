@@ -1,6 +1,6 @@
 # VedicDost MCP Server — Vedic Astrology Tools for AI Apps
 
-**Astrology That Shows You WHY, With Proof.** Free kundli, kundli matching, panchang and muhurat in 8 Indian languages, for any MCP client: Claude, ChatGPT, Cursor, VS Code and more.
+**Vedic Astrology That Shows You Why.** Not Guesswork. Shastra. Free kundli, kundli matching, panchang and muhurat in 8 Indian languages, for any MCP client: Claude, ChatGPT, Cursor, VS Code and more.
 
 Every answer is **calculated by VedicDost's own software** (sidereal zodiac, Lahiri ayanamsa, Parashari method, Vimshottari dasha), not guessed by an AI model, and comes with its **classical basis** (shastra reference) and a link to the free page on [vedicdost.com](https://vedicdost.com).
 
