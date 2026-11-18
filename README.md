@@ -4,6 +4,8 @@
 
 Every answer is **calculated by VedicDost's own software** (sidereal zodiac, Lahiri ayanamsa, Parashari method, Vimshottari dasha), not guessed by an AI model, and comes with its **classical basis** (shastra reference) and a link to the free page on [vedicdost.com](https://vedicdost.com).
 
+**Accuracy:** planet positions cross-checked against **NASA JPL Horizons** and **Swiss Ephemeris** on 1,000 random charts (7,000 positions): every one within 1 arc-minute (mean 0.19′, max 0.53′).
+
 | | |
 |---|---|
 | **Server URL** | `https://vedicdost.com/mcp` |
